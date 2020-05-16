@@ -1,0 +1,4 @@
+export const AUTHENTICATE = 'AUTHENTICATE';
+export const AUTHORIZE = 'AUTHORIZE';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const REQUEST_FAILED = 'REQUEST_FAILED';
